@@ -1,3 +1,0 @@
-FONT - Lao UI 
-BOLD - ON
-SIZE - 4pt and smaller
